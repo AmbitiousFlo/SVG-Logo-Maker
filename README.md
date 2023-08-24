@@ -28,7 +28,7 @@ You will need to have Node.js installed on your machine. You can check if you ha
 
 
 ## Usage 
-<ol>
+
 <li>Starting Up: Begin by launching the application from your command-line.</li>
 
 <li>Entering Your Text: First you will need to enter text, There is a maximum of three characters that can be used in this field.</li>
@@ -40,7 +40,7 @@ You will need to have Node.js installed on your machine. You can check if you ha
 <li>Picking Shape Color: Finally, choose a color for your selected shape.  Confirm your choice, and you have now completed your logo!</li>
 
 <li>Saving: This will then be saved as a file named logo.svg in the examples directory of the application.</li>
-</ol>
+
 
 ### Examples
  ![Screenshot of project](./lib/images/Nodeindex.png)
